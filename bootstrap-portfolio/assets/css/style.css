@@ -1,0 +1,81 @@
+/* 
+ a {
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    border: solid black;
+}  */
+
+/* Hover: Changes style when moused-over */
+
+/* a:hover {
+    background-color: blueviolet
+}  */
+
+/* Focus: when clicked */
+
+/* a:focus {
+    background-color: aqua
+} */
+
+/* Active: During the actual click. Style will release 
+once visitor stops clicking */
+
+/* a:active {
+    background-color: black
+}
+
+.container {
+    background-color:blue;
+}
+
+
+h1 {
+    font-size: 20px;
+    margin-top:0px;
+    background: lightseagreen;
+    width: 100%;
+    padding: 10px;
+}
+
+h2 {
+    border: solid red;
+    color: lightseagreen;
+}
+
+#main-bio {
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    background:grey;
+    width: 960px;
+    height: 250px;
+}
+
+header {
+    color: white;
+    margin-left: 30px;
+}
+
+.box{
+    display: inline-flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    align-content: flex-start;
+    height: 100px;
+    width: 960px;
+    border: solid blue;
+}
+
+#myName {   
+    display: flex;
+    border: solid pink;
+}
+
+#navList {
+    display:flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+} 
+ */
